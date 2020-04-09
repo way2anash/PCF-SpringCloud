@@ -1,0 +1,7 @@
+{  
+  "git":{  
+    "uri":"https://github.com/way2anash/config-server.git",
+    "label":"master",
+    "searchPaths":"dev"
+  }
+}

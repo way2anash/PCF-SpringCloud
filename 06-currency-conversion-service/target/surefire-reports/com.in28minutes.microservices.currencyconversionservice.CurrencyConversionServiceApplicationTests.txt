@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.in28minutes.microservices.currencyconversionservice.CurrencyConversionServiceApplicationTests
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 96.447 s - in com.in28minutes.microservices.currencyconversionservice.CurrencyConversionServiceApplicationTests
